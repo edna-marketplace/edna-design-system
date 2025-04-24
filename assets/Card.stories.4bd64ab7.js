@@ -1,0 +1,2 @@
+import{C as r,T as o}from"./index.a074f3ad.js";import{j as t}from"./jsx-runtime.a1dab5c3.js";import"./index.110f9f9a.js";import"./iframe.642856f3.js";import"./index.915d019a.js";const m={title:"Surfaces/Card",component:r,args:{children:t(o,{children:"Testando o elemento Card"})},argTypes:{children:{control:{type:null}}}},d={},p=["Primary"];export{d as Primary,p as __namedExportsOrder,m as default};
+//# sourceMappingURL=Card.stories.4bd64ab7.js.map
