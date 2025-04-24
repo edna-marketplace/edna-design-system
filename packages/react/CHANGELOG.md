@@ -1,5 +1,11 @@
 # @edna-ui/react
 
+## 1.0.8
+
+### Patch Changes
+
+- Add media sizes to deal with responsiveness
+
 ## 1.0.7
 
 ### Patch Changes
